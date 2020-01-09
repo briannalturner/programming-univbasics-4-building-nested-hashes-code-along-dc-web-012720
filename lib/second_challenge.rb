@@ -21,7 +21,7 @@ def second_challenge
       matriarch: {
         
       },
-      hero: {
+      heroine: {
         
       },
       heroine_friends: {
